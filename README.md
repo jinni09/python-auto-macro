@@ -7,6 +7,7 @@
 - .py(실행파일) cmd >>>>> pip installl pyinstaller >>>>> C:\Python374\Scripts\macro.py
 
 
+
 #### Running
 - python 실행파일 생성 후 명령프롬프트로 실행
 
