@@ -15,7 +15,7 @@
 
 
 ### Running
-- python 실행파일 생성 후 명령프롬프트로 실행
+- python으로 원하는 코드 작성 .py로 저장 후 명령프롬프트로 실행.
 
 ![image](https://user-images.githubusercontent.com/58936727/118778090-b7b31600-b8c4-11eb-9c8b-509460e1c061.png)
 
