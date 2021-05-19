@@ -6,6 +6,8 @@
 - cmd(명령프롬프트) 명령어로 간단히 실행할 수 있게 구현
 - 소스 공개 생각없음.
 
+<br>
+<br>
 
 ## Setting
 - Add Python 3.7 to PATH  >>>>> C:\Python374
