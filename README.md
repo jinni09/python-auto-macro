@@ -8,14 +8,12 @@
 
 <br>
 <br>
-<br>
 
 ## Setting
 - Add Python 3.7 to PATH  >>>>> C:\Python374
 - PATH 설정 >>>>> C:\Python374\Scripts\;C:\Python374\;
 - .py(실행파일) cmd >>>>> pip installl pyinstaller >>>>> C:\Python374\Scripts\macro.py
 
-<br>
 <br>
 <br>
 
